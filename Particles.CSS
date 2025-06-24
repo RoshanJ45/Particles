@@ -1,0 +1,14 @@
+        body {
+background: black;
+margin: 0;
+height: 100vh;
+padding: 0;
+overflow: hidden;
+}
+canvas{
+height: 100%;
+width: 100%;
+background: white;
+box-sizing: border-box;
+}
+    
